@@ -324,3 +324,7 @@ body.paper-mode button.tag.active{background:var(--rust);border-color:var(--rust
 .kicker-num{font-family:var(--ff-display);font-size:13px;color:var(--gold);letter-spacing:.05em}
 .center{text-align:center}
 .mt-0{margin-top:0}
+
+/* ---------------------------------- ad placement ---------------------------------- */
+.ad-placement{padding:48px 0;background:var(--ink)}
+.ad-placement-inner.wrap{display:flex;justify-content:center}
